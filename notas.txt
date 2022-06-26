@@ -1,0 +1,1 @@
+Executar Docker-compose.yaml =>  docker-compose up
